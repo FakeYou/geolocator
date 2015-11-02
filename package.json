@@ -5,6 +5,7 @@
   "directories": {
     "example": "example"
   },
+  "main": "src/geolocator.js",
   "files": [
     "src",
     "example",
